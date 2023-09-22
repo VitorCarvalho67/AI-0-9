@@ -1,0 +1,7 @@
+numpy
+keras
+pygame
+sklearn
+Pillow
+sys
+time
